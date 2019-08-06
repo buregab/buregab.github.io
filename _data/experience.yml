@@ -1,0 +1,7 @@
+- layout: left
+  company: Yelp
+  link: yelp.com
+  job_title: Search and Data Mining Engineer
+  dates: August 2018 - Present
+  quote: >
+  description: | # this will include new lines to allow paragraphs
