@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Brad Burega
-title: Search and Data Mining Engineer
+title: MSc in Computing Science Student
 email: buregab@gmail.com
 website: buregab.github.io
 
@@ -24,7 +24,8 @@ linkedin_username: brad-burega
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Brad. I'm a software engineer working for Yelp. I'm interested in machine learning, software, improv theater, and a few other miscellaneous things. 
+  Hi, I'm Brad. I'm a MSc in Computing Science student at the University of Alberta working with Michael Bowling. I'm interested in 
+  reinforcement learning and machine learning more generally. Previously I was a Search and Data Mining Engineer at Yelp. 
 
 # Projects Section
 # projects_title: Projects
