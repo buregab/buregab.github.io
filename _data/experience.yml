@@ -1,8 +1,44 @@
 # Experience template
 - layout: left
-  company: Yelp
+  company: Yelp - San Francisco, CA
   link: yelp.com
-  job_title: Search and Data Mining Engineer
+  jobs:
+    - title: Search and Data Mining Engineer
+      dates: August 2018 - August 2019
+    - title: Software Engineering Intern
+      dates: May 2017 - August 2017
+  quote: >
+  description: | 
+    As a Search and Data Mining engineer, I worked with a variety of technologies to help improve the relevance of Yelp's search results.
+    I used Python, Jupyter notebooks, and SQL to perform data analysis and train learning-to-rank models, while I worked in Java to deploy
+    models and new search features into production. 
+
+    During my time as an intern, I worked on a project to test a new method of ordering reviews on business pages on Yelp's iOS app. 
+    I oversaw the backend portion of the project and worked in Python to pull the ML model used to order the reviews from a Cassandra database, 
+    while retrieving review data from a SQL database and provide results to the client.
+
+- layout: left
+  company: Optigo Networks - Vancouver, BC
+  link: www.optigo.net/
+  job_title: 
   dates: August 2018 - August 2019
   quote: >
-  description: | # this will include new lines to allow paragraphs
+  description: | 
+    At Optigo Networks, I worked on a variety of improvements to a customer facing web application build using Javascript and Meteor.js.
+    I integrated a customer billing and subscription system into the app using the Stripe API and queried customer information from MongoDB.
+    As well, I developed visualizations which allowed users to examine BACnet data queried from InfluxDB. Finally, 
+    I improved application security by re-implementing the process of uploading and storing files to AWS from the application. 
+
+- layout: left
+  company: SAP - Vancouver, BC
+  link: www.sap.com/products/lumira.html
+  job_title: Software Developer in Test
+  dates: January 2015 - August 2015
+  quote: >
+  description: | 
+    While working as a co-op student at SAP I designed and executed test plans for a feature which allowed users to import data
+    from Hadoop to the SAP Lumira product. I also worked to automate some tests by checking expected HiveQL queries against 
+    programmatically generated queries.
+
+
+

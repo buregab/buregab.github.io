@@ -3,9 +3,16 @@
   dates: 2019 - Present
   qualification: MSc Computing Science
   quote: >
+  description: |
+    My research interests lie in reinforcement learning and I look forward to discovering more about different aspects of the field. 
+    I have been a TA for CMPUT 274 and 275, honours introductory courses where students learn about C++ and a variety of CS concepts 
+    by working with arduinos. 
 - layout: left
   name: University of British Columbia
   dates: 2013 - 2018
-  qualification: BSc Honours Computer Science and Physics
+  qualification: BSc Combined Honours Computer Science and Physics
   quote: >
-  description: | # this will include new lines to allow paragraphs
+  description: | 
+    I graduated with distinction and was named to the Dean's Honours List in every academic term. 
+    I also worked as a TA for two semesters teaching CPSC 320: Intermediate Algorithm Design and Analysis. 
+
