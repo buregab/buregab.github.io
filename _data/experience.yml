@@ -13,9 +13,9 @@
     I used Python, Jupyter notebooks, and SQL to perform data analysis and train learning-to-rank models, while I worked in Java to deploy
     models and new search features into production. 
 
-    During my time as an intern, I worked on a project to test a new method of ordering reviews on business pages on Yelp's iOS app. 
-    I oversaw the backend portion of the project and worked in Python to pull the ML model used to order the reviews from a Cassandra database, 
-    while retrieving review data from a SQL database and provide results to the client.
+    During my time as an intern, I worked on a project to test a new method of ordering reviews on the business pages of Yelp's iOS app. 
+    I oversaw the backend portion of the project and worked to develop a Python API which pulled a review-ordering ML model from a Cassandra database, 
+    while retrieving review data from MySQL and providing sorted results to the client.
 
 - layout: left
   company: Optigo Networks - Vancouver, BC
